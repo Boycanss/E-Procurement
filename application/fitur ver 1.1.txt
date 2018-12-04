@@ -1,0 +1,20 @@
+#ADMIN
+Login
+Logout
+•	Dapat Melihat Data User
+•	Dapat menambahkan User
+•	Dapat mengubah data User
+•	Dapat menghapus data User
+
+#SUPLIER
+Login
+Logout
+
+#ADMIN GUDANG
+Login
+Logout
+
+
+#ADMIN PENGADAN
+Login
+Logout
