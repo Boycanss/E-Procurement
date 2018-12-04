@@ -1,0 +1,31 @@
+#ADMIN
+Login
+Logout
+•	Dapat Melihat Data User
+	melihat data user berdasarkan hak akses
+•	Dapat menambahkan User
+•	Dapat mengubah data User
+•	Dapat menghapus data User
+•	Dapat menambah data gudang
+•	Dapat melihat data gudang
+•	Dapat mengubah data gudang
+•	Dapat menghapus data gudang
+
+
+#SUPLIER
+Login
+Logout
+
+
+#ADMIN GUDANG
+Login
+Logout
+
+
+#ADMIN PENGADAN
+Login
+Logout
+•	Dapat menambah data gudang
+•	Dapat melihat data gudang
+•	Dapat mengubah data gudang
+•	Dapat menghapus data gudang
